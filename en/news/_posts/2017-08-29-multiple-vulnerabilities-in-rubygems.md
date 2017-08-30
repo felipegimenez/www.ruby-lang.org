@@ -17,7 +17,7 @@ The following vulnerabilities have been reported.
 
 * a DNS request hijacking vulnerability
 * an ANSI escape sequence vulnerability
-* a DoS vulernerability in the query command
+* a DoS vulnerability in the query command
 * a vulnerability in the gem installer that allowed a malicious gem to overwrite arbitrary files
 
 It is strongly recommended for Ruby users to take one of the following workarounds as soon as possible.
